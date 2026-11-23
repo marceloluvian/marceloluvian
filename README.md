@@ -62,15 +62,15 @@ Me gusta construir y optimizar procesos — y cuando una herramienta me hace má
 
 ## Comparto lo que aprendo
 
-Soy creador de **[@lomejordeia](https://instagram.com/lomejordeia)** — noticias tech, herramientas, avances de IA y mucho más, en formato directo y al grano. Si te late estar al día sin relleno, ahí nos vemos.
+Soy creador de **[@luviandev](https://instagram.com/luviandev)** — software, IA, plugins, juegos y fondos de pantalla interactivos, en formato directo y al grano. Si te late, ahí nos vemos.
 
 En lo personal me encuentras como **[@marceloluvian](https://instagram.com/marceloluvian)**.
 
 <p align="center">
-  <a href="https://instagram.com/lomejordeia">
+  <a href="https://instagram.com/luviandev">
     <img
-      src="https://img.shields.io/badge/%40lomejordeia-E84CA0?style=for-the-badge&logo=instagram&logoColor=F6EEDD"
-      alt="@lomejordeia en Instagram"
+      src="https://img.shields.io/badge/%40luviandev-E84CA0?style=for-the-badge&logo=instagram&logoColor=F6EEDD"
+      alt="@luviandev en Instagram"
     />
   </a>
   &nbsp;
